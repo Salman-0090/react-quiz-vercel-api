@@ -1,13 +1,3 @@
 {
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
-  "routes": [
-    {
-      "src": "/api/questions",
-      "dest": "api/questions.js"
-    }
-  ]
+  "version": 2
 }
